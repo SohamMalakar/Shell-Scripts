@@ -1,16 +1,13 @@
 
 read -p "Enter the number: " n
 
-r=0
 sum=0
-
 tmp=$n
 
 while [ $tmp -gt 0 ]; do
 
-    let r=$((tmp%10))
     let sum*=10
-    let sum+=r
+    let sum+=tmp%10
     let tmp/=10
 
 done
