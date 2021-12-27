@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script to find out the factorial of a given number.
 

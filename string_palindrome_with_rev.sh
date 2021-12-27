@@ -1,3 +1,4 @@
+#!/bin/bash
 
 str=$1
 reverse=$(echo $str | rev)

@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script to count the words, lines and characters of a given file. File name should be provided at run time.
 

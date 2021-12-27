@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script to reverse a string and check whether it is a palindrome.
 

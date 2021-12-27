@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script to find the roots of a quadratic equation ax2 + bx + c = 0, considering all  possible cases.
 

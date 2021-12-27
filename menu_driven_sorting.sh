@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a menu driven program to sort 'n' number of integers in ascending order using i) Bubble Sort, 2) Selection Sort and 3) Insertion Sort.
 

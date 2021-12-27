@@ -1,3 +1,4 @@
+#!/bin/bash
 
 read -p "Enter lower and upper limit for printing fibonacci series: " l u
 

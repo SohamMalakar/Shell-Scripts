@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script to find out the n-th term of the Fibonacci Series.
 

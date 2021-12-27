@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script to find the largest number among three numbers.
 

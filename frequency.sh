@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script that take a word from user and find out the frequency of the word in a given file.
 

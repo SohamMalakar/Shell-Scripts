@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script to convert the content of a file from lower case to upper case.
 

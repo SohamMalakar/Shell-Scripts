@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script that takes a lower and upper bound and prints all the armstrong numbers between the bounds.
 

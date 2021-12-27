@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # WAP to input integers in an array and display the maximum and minimum values.
 

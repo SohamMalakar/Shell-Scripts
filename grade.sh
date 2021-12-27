@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script to display grades according to input marks using case.
 

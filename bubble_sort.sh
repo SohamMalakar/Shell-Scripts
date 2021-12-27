@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Write a shell script to sort a set of integer numbers using bubble sort.
 
