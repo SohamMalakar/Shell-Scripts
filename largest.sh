@@ -1,4 +1,6 @@
 
+# Write a shell script to find the largest number among three numbers.
+
 read -p "Enter three numbers: " a b c
 
 if [ $a -gt $b -a $a -gt $c ]; then

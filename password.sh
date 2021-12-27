@@ -1,4 +1,6 @@
 
+# Accept a password from the user and determine if it is strong or a weak password.
+
 read -sp "Enter the password: " pass
 
 # At least 8 characters long

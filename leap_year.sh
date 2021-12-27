@@ -1,4 +1,6 @@
 
+# Write a shell script to check if a given year is leap year or not.
+
 read -p "Enter a year to check if the year is leap year or not: " year
 
 flag=0

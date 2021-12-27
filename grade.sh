@@ -1,4 +1,6 @@
 
+# Write a shell script to display grades according to input marks using case.
+
 read -p "Enter your marks: " marks
 
 case $marks in
